@@ -8,4 +8,4 @@ coupled graph traversing and rendering components.
 For now, it only supports DFS search to find path. I plan to add various kinds
 of path finding algorithm in the future.
 
-![ScreenShot](/sceenshots/dfs.png)
+![ScreenShot](https://raw.github.com/BeyondSora/PathFindingVisualizer/master/screenshots/dfs.png)
